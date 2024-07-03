@@ -1,6 +1,6 @@
-# Hi there, I'm [Eki Maltino Nugroho] 👋
+# Hi there, I'm Eki Maltino Nugroho 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ekynug2&style=flat-square)
 
 ## 🚀 About Me
 
@@ -10,9 +10,7 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 - 👯 I’m looking to collaborate on **[Interesting Project or Open Source]**
 - 🤔 I’m looking for help with **[Any Topic you need help with]**
 - 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Fun Fact about you]**
+- 📫 How to reach me: **yufig22@gmail.com**
 
 ## 🛠️ Technologies & Tools
 
@@ -27,25 +25,17 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekynug2&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekynug2&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ekynug2/)](https://www.linkedin.com/in/ekynug2/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ekynug2)](https://twitter.com/ekynug2)
 [![Website](https://img.shields.io/badge/Website-0088CC?style=flat-square&logo=About.me&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Optimize Your Code for Performance](https://yourblog.com/how-to-optimize-your-code)
-- [Understanding Asynchronous Programming](https://yourblog.com/understanding-async-programming)
-- [A Guide to Clean Code](https://yourblog.com/clean-code-guide)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
