@@ -35,7 +35,7 @@ I'm a passionate developer with a love for creating innovative and efficient sol
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ekynug2/)](https://www.linkedin.com/in/ekynug2/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ekynug2)](https://twitter.com/ekynug2)
-[![Website](https://img.shields.io/badge/Website-0088CC?style=flat-square&logo=About.me&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-0088CC?style=flat-square&logo=About.me&logoColor=white&link=https://kykytnh.my.id)](https://kykytnh.my.id)
 
 ---
 
