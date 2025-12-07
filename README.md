@@ -25,19 +25,13 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics (Alternative Source)
 
 <div align="center">
-<table align="center">
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekynug2&show_icons=true&theme=radical&count_private=true" />
-</td>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekynug2&layout=compact&theme=radical&hide=html,css" />
-</td>
-</tr>
-</table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekynug2&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekynug2&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekynug2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🧩 About Me
