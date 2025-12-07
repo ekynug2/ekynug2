@@ -1,42 +1,58 @@
+<div align="center">
+
 # Hi there, I'm Eki Maltino Nugroho 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ekynug2&style=flat-square)
 
-## 🚀 About Me
+### 🚀 Fullstack Developer | Web3 Enthusiast
 
-I'm a passionate developer with a love for creating innovative and efficient solutions.
-
-- 🌱 I’m currently learning **[Solidity Language]**
-- 👯 I’m looking to collaborate on **[Interesting Project or Open Source]**
-- 🤔 I’m looking for help with **[Any Topic you need help with]**
-- 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: **yufig22@gmail.com**
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekynug2&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekynug2&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ekynug2/)](https://www.linkedin.com/in/ekynug2/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ekynug2)](https://twitter.com/ekynug2)
-[![Website](https://img.shields.io/badge/Website-0088CC?style=flat-square&logo=About.me&logoColor=white&link=https://kykytnh.my.id)](https://kykytnh.my.id)
+*I'm a passionate developer focusing on scalable web applications and blockchain technology.*
 
 ---
 
-⭐️ From [Eki](https://github.com/ekynug2)
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+<table align="center">
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekynug2&show_icons=true&theme=radical&count_private=true" />
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekynug2&layout=compact&theme=radical&hide=html,css" />
+</td>
+</tr>
+</table>
+</div>
+
+### 🧩 About Me
+
+- 🌱 I’m currently learning **Solidity & Smart Contract Security**
+- 👯 I’m looking to collaborate on **DeFi & Web3 Projects**
+- 💬 Ask me about **Fullstack Development (Django/React) & Containerization**
+- 📫 How to reach me: [**yufig22@gmail.com**](mailto:yufig22@gmail.com)
+
+<div align="center">
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekynug2/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ekynug2)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kykytnh.my.id)
+
+</div>
